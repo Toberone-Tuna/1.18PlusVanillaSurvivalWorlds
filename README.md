@@ -1,7 +1,8 @@
-# 1.18PlusVanillaSurvivalWorlds
-Repository for backups of vanilla survival Minecraft worlds in 1.18 and beyond.
+# Survival_3
+Third survival world of server. (CURRENTLY DOESNT EXIST IN THIS REPOSITORY)
 
-Go to a different branch (drop-down menu on the top left) to select the world you want.
+To download, go to Code>Download ZIP to get a zipped file with the world folder inside of it. (The world folder ITSELF that you use should be in the same folder as a README.md file)
 
-After that, go to Code>Download ZIP to get a zipped file with the world folder inside of it.
-(The world folder ITSELF that you use should be in the same folder as a README.md file)
+Last Played: December 12, 2021
+
+Minecraft Version: 1.18.1
