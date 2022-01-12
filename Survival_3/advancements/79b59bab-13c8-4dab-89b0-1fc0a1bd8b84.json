@@ -443,6 +443,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2022-01-11 23:29:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2021-12-17 00:28:05 +0000"
@@ -518,6 +524,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2021-12-21 02:53:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2022-01-11 14:23:05 +0000"
     },
     "done": true
   },
@@ -827,6 +839,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2022-01-11 17:24:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-12-17 22:45:26 +0000"
@@ -1010,6 +1028,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2022-01-11 23:29:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_helmet": "2021-12-17 01:05:08 +0000"
@@ -1031,6 +1055,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2022-01-04 10:07:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2022-01-11 23:13:18 +0000"
     },
     "done": true
   },
@@ -1229,6 +1259,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2022-01-04 10:00:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-01-11 17:24:33 +0000"
     },
     "done": true
   },
@@ -1794,6 +1830,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2021-12-17 02:30:03 +0000",
       "minecraft:mushroom_fields": "2022-01-08 04:22:32 +0000",
+      "minecraft:taiga": "2022-01-11 17:08:57 +0000",
       "minecraft:deep_ocean": "2022-01-06 04:01:32 +0000",
       "minecraft:frozen_river": "2022-01-06 03:50:16 +0000",
       "minecraft:sunflower_plains": "2022-01-05 16:33:04 +0000",
@@ -2010,6 +2047,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2022-01-11 23:34:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_orange_tulip": "2022-01-07 06:47:21 +0000"
@@ -2025,6 +2068,12 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2021-12-21 00:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2022-01-11 23:29:20 +0000"
     },
     "done": true
   },
@@ -2260,6 +2309,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_nether_gold_ore": {
+    "criteria": {
+      "has_nether_gold_ore": "2022-01-11 14:23:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_candle": {
     "criteria": {
       "has_blue_dye": "2021-12-17 00:42:31 +0000"
@@ -2335,6 +2390,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2021-12-21 03:40:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2022-01-11 23:34:57 +0000"
     },
     "done": true
   },
@@ -2590,6 +2651,7 @@
       "cooked_beef": "2021-12-17 00:44:15 +0000",
       "porkchop": "2021-12-21 04:18:21 +0000",
       "tropical_fish": "2021-12-17 01:38:11 +0000",
+      "beetroot_soup": "2022-01-11 23:14:10 +0000",
       "potato": "2021-12-19 22:53:59 +0000",
       "cooked_cod": "2021-12-17 03:30:24 +0000",
       "pumpkin_pie": "2021-12-17 03:05:31 +0000",
@@ -2615,6 +2677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-01-11 17:24:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2021-12-17 03:11:26 +0000"
@@ -2636,6 +2704,12 @@
   "minecraft:recipes/building_blocks/warped_hyphae": {
     "criteria": {
       "has_log": "2022-01-07 04:05:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2022-01-11 17:24:33 +0000"
     },
     "done": true
   },
@@ -3151,6 +3225,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2022-01-11 17:19:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/safely_harvest_honey": {
+    "criteria": {
+      "safely_harvest_honey": "2022-01-11 23:34:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2021-12-17 22:03:34 +0000"
@@ -3220,6 +3306,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2021-12-17 01:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2022-01-11 23:28:37 +0000"
     },
     "done": true
   },
@@ -3607,6 +3699,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2022-01-11 17:24:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2021-12-21 00:33:21 +0000"
@@ -3742,6 +3840,18 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2022-01-04 10:00:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2022-01-11 17:24:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2022-01-11 15:22:13 +0000"
     },
     "done": true
   },
@@ -3943,6 +4053,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2022-01-11 17:24:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
       "has_polished_blackstone": "2022-01-04 11:47:13 +0000"
@@ -4003,6 +4119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2022-01-11 17:24:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2022-01-04 10:07:08 +0000"
@@ -4036,6 +4158,12 @@
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2022-01-07 04:08:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-01-11 17:24:33 +0000"
     },
     "done": true
   },
@@ -4102,6 +4230,12 @@
   "minecraft:recipes/transportation/rail": {
     "criteria": {
       "has_minecart": "2022-01-05 02:44:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2022-01-11 15:22:13 +0000"
     },
     "done": true
   },
