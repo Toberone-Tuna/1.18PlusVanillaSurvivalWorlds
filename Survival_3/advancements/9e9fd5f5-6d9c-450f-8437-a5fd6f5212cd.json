@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs_from_honeycomb": {
+    "criteria": {
+      "has_exposed_cut_copper_stairs": "2022-01-12 14:54:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2021-12-17 00:33:29 +0000"
@@ -2239,6 +2245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2022-01-12 10:49:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2021-12-19 20:33:49 +0000"
@@ -3284,6 +3296,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/spyglass_at_parrot": {
+    "criteria": {
+      "spyglass_at_parrot": "2022-01-12 19:07:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2021-12-17 05:31:46 +0000"
@@ -3389,6 +3407,12 @@
   "minecraft:recipes/decorations/light_blue_carpet": {
     "criteria": {
       "has_light_blue_wool": "2022-01-09 04:27:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2022-01-13 02:13:30 +0000"
     },
     "done": true
   },
@@ -3648,6 +3672,7 @@
       "minecraft:sunflower_plains": "2021-12-18 19:59:07 +0000",
       "minecraft:birch_forest": "2021-12-17 05:12:47 +0000",
       "minecraft:wooded_badlands": "2022-01-01 02:06:04 +0000",
+      "minecraft:bamboo_jungle": "2022-01-12 16:37:32 +0000",
       "minecraft:savanna_plateau": "2021-12-19 21:11:23 +0000",
       "minecraft:beach": "2021-12-17 00:26:05 +0000",
       "minecraft:stony_peaks": "2021-12-19 21:11:28 +0000",
