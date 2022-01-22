@@ -1511,6 +1511,7 @@
       "minecraft:lush_caves": "2021-12-17 01:25:32 +0000",
       "minecraft:deep_cold_ocean": "2021-12-18 02:15:22 +0000",
       "minecraft:ice_spikes": "2021-12-18 02:37:38 +0000",
+      "minecraft:frozen_ocean": "2022-01-22 02:40:41 +0000",
       "minecraft:desert": "2021-12-17 02:34:36 +0000",
       "minecraft:ocean": "2021-12-17 02:24:54 +0000",
       "minecraft:jungle": "2021-12-17 00:20:19 +0000",
@@ -2078,6 +2079,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2021-12-17 02:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2022-01-22 02:43:59 +0000"
     },
     "done": true
   },

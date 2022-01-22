@@ -1407,6 +1407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2022-01-22 00:03:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-12-17 00:34:26 +0000"
@@ -2701,6 +2707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2022-01-21 23:49:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2022-01-07 04:50:01 +0000"
@@ -3065,6 +3077,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2022-01-06 02:00:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2022-01-22 00:03:04 +0000"
     },
     "done": true
   },
@@ -3683,13 +3701,16 @@
       "minecraft:stony_shore": "2021-12-17 00:27:46 +0000",
       "minecraft:snowy_plains": "2022-01-01 22:37:51 +0000",
       "minecraft:dripstone_caves": "2021-12-17 03:45:06 +0000",
+      "minecraft:snowy_taiga": "2022-01-22 02:41:22 +0000",
       "minecraft:grove": "2021-12-17 01:01:42 +0000",
       "minecraft:jagged_peaks": "2021-12-17 00:47:01 +0000",
       "minecraft:forest": "2021-12-17 01:01:12 +0000",
       "minecraft:lush_caves": "2021-12-18 01:18:32 +0000",
+      "minecraft:frozen_ocean": "2022-01-22 02:40:40 +0000",
       "minecraft:desert": "2021-12-18 01:08:09 +0000",
       "minecraft:jungle": "2021-12-13 04:40:50 +0000",
       "minecraft:ocean": "2021-12-17 21:51:04 +0000",
+      "minecraft:snowy_beach": "2022-01-22 02:41:21 +0000",
       "minecraft:warm_ocean": "2021-12-18 01:09:05 +0000",
       "minecraft:deep_lukewarm_ocean": "2021-12-18 20:13:59 +0000",
       "minecraft:flower_forest": "2022-01-03 06:39:13 +0000",
@@ -3795,6 +3816,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2021-12-23 00:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2022-01-21 23:39:06 +0000"
     },
     "done": true
   },
@@ -4002,6 +4029,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2022-01-21 23:39:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2021-12-21 02:00:15 +0000"
@@ -4062,6 +4095,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2022-01-22 00:03:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-01-09 03:50:59 +0000"
@@ -4071,6 +4110,12 @@
   "minecraft:recipes/decorations/pink_carpet": {
     "criteria": {
       "has_pink_wool": "2022-01-09 04:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2022-01-22 01:30:08 +0000"
     },
     "done": true
   },
@@ -4119,6 +4164,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
     "criteria": {
       "has_deepslate_gold_ore": "2021-12-28 22:42:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2022-01-22 02:43:59 +0000"
     },
     "done": true
   },
@@ -4462,6 +4513,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
     "criteria": {
       "has_polished_granite": "2021-12-23 00:47:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/safely_harvest_honey": {
+    "criteria": {
+      "safely_harvest_honey": "2022-01-21 23:39:06 +0000"
     },
     "done": true
   },
@@ -5122,6 +5179,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2022-01-04 02:09:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2022-01-21 23:49:53 +0000"
     },
     "done": true
   },
