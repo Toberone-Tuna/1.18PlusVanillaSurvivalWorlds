@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2022-02-04 11:08:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2021-12-17 00:42:39 +0000"
@@ -416,6 +422,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2022-01-04 11:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2022-02-06 18:17:09 +0000"
     },
     "done": true
   },
@@ -566,6 +578,12 @@
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2022-01-04 11:20:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2022-02-06 18:17:09 +0000"
     },
     "done": true
   },
@@ -1185,6 +1203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2022-01-31 16:48:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2022-01-04 11:47:13 +0000"
@@ -1505,11 +1529,13 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:cat": "2022-02-06 04:57:07 +0000",
       "minecraft:pig": "2021-12-19 21:52:20 +0000",
       "minecraft:sheep": "2021-12-19 22:13:48 +0000",
       "minecraft:mooshroom": "2022-01-28 06:09:17 +0000",
       "minecraft:cow": "2021-12-18 02:05:59 +0000",
       "minecraft:chicken": "2022-01-28 06:03:51 +0000",
+      "minecraft:rabbit": "2022-02-06 04:23:44 +0000",
       "minecraft:bee": "2022-01-12 11:38:01 +0000"
     },
     "done": false
@@ -1796,6 +1822,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2022-02-06 18:35:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-12-17 00:52:48 +0000"
@@ -1907,6 +1939,12 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2022-01-18 04:33:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2022-02-04 10:42:13 +0000"
     },
     "done": true
   },
@@ -2920,6 +2958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2022-02-06 18:17:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2022-01-04 11:20:46 +0000"
@@ -3109,6 +3153,12 @@
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2022-01-04 03:01:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2022-02-06 18:17:09 +0000"
     },
     "done": true
   },
@@ -3550,6 +3600,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2022-02-05 10:04:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
       "axolotl_bucket": "2022-01-08 07:00:47 +0000"
@@ -3766,6 +3822,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2022-02-06 21:26:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/honey_block": {
     "criteria": {
       "has_honey_bottle": "2022-01-11 23:34:57 +0000"
@@ -3925,6 +3987,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2022-01-04 09:37:39 +0000",
+      "cooked_mutton": "2022-02-04 12:37:56 +0000",
       "cooked_beef": "2021-12-17 00:44:15 +0000",
       "baked_potato": "2022-01-24 16:44:00 +0000",
       "porkchop": "2021-12-21 04:18:21 +0000",
@@ -3939,6 +4002,7 @@
       "melon_slice": "2021-12-17 02:30:13 +0000",
       "cooked_rabbit": "2021-12-17 01:57:38 +0000",
       "cooked_chicken": "2021-12-17 00:33:13 +0000",
+      "cooked_salmon": "2022-02-04 14:37:54 +0000",
       "carrot": "2022-01-08 06:58:08 +0000"
     },
     "done": false
@@ -4549,6 +4613,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2022-02-06 21:35:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2022-01-05 02:18:25 +0000"
@@ -4872,6 +4942,13 @@
       "has_planks": "2022-01-07 04:05:45 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "textures/entity/cat/british_shorthair.png": "2022-02-06 04:53:06 +0000",
+      "textures/entity/cat/persian.png": "2022-02-06 04:56:56 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
