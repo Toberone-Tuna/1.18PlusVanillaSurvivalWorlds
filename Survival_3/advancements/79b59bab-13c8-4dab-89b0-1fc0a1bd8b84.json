@@ -1531,6 +1531,7 @@
     "criteria": {
       "minecraft:cat": "2022-02-06 04:57:07 +0000",
       "minecraft:pig": "2021-12-19 21:52:20 +0000",
+      "minecraft:turtle": "2022-02-07 03:14:15 +0000",
       "minecraft:sheep": "2021-12-19 22:13:48 +0000",
       "minecraft:mooshroom": "2022-01-28 06:09:17 +0000",
       "minecraft:cow": "2021-12-18 02:05:59 +0000",
@@ -2860,6 +2861,7 @@
       "minecraft:blaze": "2022-01-04 09:56:46 +0000",
       "minecraft:skeleton": "2021-12-17 01:15:26 +0000",
       "minecraft:elder_guardian": "2022-01-29 02:12:29 +0000",
+      "minecraft:ravager": "2022-02-07 04:58:46 +0000",
       "minecraft:ghast": "2021-12-21 03:50:41 +0000",
       "minecraft:hoglin": "2021-12-21 04:14:42 +0000",
       "minecraft:guardian": "2022-01-29 02:11:52 +0000",
