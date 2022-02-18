@@ -4330,6 +4330,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2022-02-18 02:29:37 +0000",
       "cooked_beef": "2021-12-20 00:21:43 +0000",
       "baked_potato": "2022-01-04 04:43:52 +0000",
       "potato": "2021-12-19 04:47:43 +0000",

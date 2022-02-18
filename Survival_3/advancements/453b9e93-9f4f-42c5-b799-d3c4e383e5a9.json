@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_honeycomb": {
+    "criteria": {
+      "has_cut_copper_stairs": "2022-02-18 05:24:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2021-12-18 01:56:14 +0000"
@@ -311,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2022-02-18 04:54:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-12-18 20:43:48 +0000"
@@ -338,6 +350,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2022-01-05 13:14:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2022-02-18 04:41:25 +0000"
     },
     "done": true
   },
@@ -737,6 +755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2022-02-16 23:15:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2022-01-04 11:46:19 +0000"
@@ -898,6 +922,7 @@
       "minecraft:creeper": "2021-12-18 03:30:28 +0000",
       "minecraft:wither": "2022-01-22 02:45:44 +0000",
       "minecraft:evoker": "2022-01-06 04:11:54 +0000",
+      "minecraft:slime": "2022-02-18 01:15:33 +0000",
       "minecraft:phantom": "2021-12-18 02:13:52 +0000",
       "minecraft:zombified_piglin": "2022-02-04 14:08:28 +0000",
       "minecraft:witch": "2021-12-19 00:40:17 +0000",
@@ -908,6 +933,7 @@
       "minecraft:enderman": "2021-12-18 02:13:10 +0000",
       "minecraft:stray": "2021-12-18 02:56:50 +0000",
       "minecraft:silverfish": "2022-01-07 03:03:20 +0000",
+      "minecraft:endermite": "2022-02-18 07:45:15 +0000",
       "minecraft:vex": "2022-01-06 04:12:04 +0000",
       "minecraft:zombie": "2021-12-18 19:55:36 +0000",
       "minecraft:drowned": "2021-12-19 21:35:51 +0000",
@@ -1320,6 +1346,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2022-01-07 19:06:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2022-02-18 01:15:36 +0000"
     },
     "done": true
   },
@@ -1791,6 +1823,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2022-02-18 01:15:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2021-12-18 01:56:14 +0000"
@@ -2053,6 +2091,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2021-12-18 02:34:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2022-02-18 04:39:50 +0000"
     },
     "done": true
   },
@@ -2396,6 +2440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2022-02-17 00:45:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2021-12-18 02:37:30 +0000"
@@ -2429,6 +2479,12 @@
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2021-12-18 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_cut_copper_slab": "2022-02-18 05:29:48 +0000"
     },
     "done": true
   },
@@ -2600,6 +2656,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_cut_copper_stonecutting": {
+    "criteria": {
+      "has_cut_copper": "2022-02-18 05:18:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-01-22 03:31:03 +0000"
@@ -2627,6 +2689,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2022-01-04 05:03:55 +0000",
+      "chicken": "2022-02-18 04:15:43 +0000",
       "cooked_mutton": "2022-01-06 03:58:06 +0000",
       "sweet_berries": "2022-01-04 12:00:41 +0000",
       "cooked_beef": "2021-12-18 23:56:34 +0000",
@@ -2634,12 +2697,14 @@
       "porkchop": "2021-12-18 01:34:58 +0000",
       "potato": "2022-01-05 03:36:46 +0000",
       "mutton": "2021-12-18 01:41:40 +0000",
+      "pufferfish": "2022-02-18 04:12:16 +0000",
       "bread": "2021-12-18 01:42:58 +0000",
       "golden_apple": "2022-01-29 02:12:24 +0000",
       "rotten_flesh": "2021-12-20 01:17:49 +0000",
       "melon_slice": "2021-12-19 00:28:48 +0000",
       "golden_carrot": "2022-01-06 04:09:14 +0000",
-      "cooked_chicken": "2021-12-19 02:23:05 +0000"
+      "cooked_chicken": "2021-12-19 02:23:05 +0000",
+      "cooked_salmon": "2022-02-18 04:17:17 +0000"
     },
     "done": false
   },
@@ -2963,6 +3028,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_stairs": {
+    "criteria": {
+      "has_cut_copper": "2022-02-18 05:18:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2021-12-18 02:26:59 +0000"
@@ -3149,6 +3220,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_slab": {
+    "criteria": {
+      "has_cut_copper": "2022-02-18 05:18:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2021-12-18 03:27:01 +0000"
@@ -3290,6 +3367,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2021-12-18 02:34:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_cut_copper_stonecutting": {
+    "criteria": {
+      "has_cut_copper": "2022-02-18 05:18:46 +0000"
     },
     "done": true
   },
@@ -3443,6 +3526,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "pufferfish_bucket": "2022-02-18 04:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2021-12-18 22:10:42 +0000"
@@ -3593,6 +3682,12 @@
     },
     "done": true
   },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2022-02-18 05:52:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2021-12-18 02:37:30 +0000"
@@ -3692,6 +3787,12 @@
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2022-02-07 02:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2022-02-18 01:15:36 +0000"
     },
     "done": true
   },
@@ -4097,6 +4198,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2022-02-18 04:41:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-12-18 22:07:12 +0000"
@@ -4112,6 +4219,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2021-12-18 01:32:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_cut_copper": "2022-02-18 05:18:46 +0000"
     },
     "done": true
   },
