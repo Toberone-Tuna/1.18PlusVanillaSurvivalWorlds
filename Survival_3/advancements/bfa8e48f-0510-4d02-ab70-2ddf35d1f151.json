@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2022-02-25 05:48:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2021-12-19 02:17:14 +0000"
@@ -140,6 +146,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2021-12-17 01:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2022-02-25 05:48:32 +0000"
     },
     "done": true
   },
@@ -203,6 +215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2022-02-24 03:27:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2021-12-17 00:30:53 +0000"
@@ -257,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2022-02-24 03:27:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2021-12-17 00:40:43 +0000"
@@ -278,6 +302,18 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2021-12-20 12:52:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2022-02-24 02:22:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2022-02-25 05:48:32 +0000"
     },
     "done": true
   },
@@ -317,9 +353,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2022-02-24 03:25:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2021-12-17 00:40:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2022-02-24 03:27:58 +0000"
     },
     "done": true
   },
@@ -380,6 +428,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2022-01-09 18:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2022-02-24 02:22:10 +0000"
     },
     "done": true
   },
@@ -701,6 +755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2022-02-25 05:48:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2021-12-17 02:18:13 +0000"
@@ -828,6 +888,12 @@
   "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-12-19 03:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-02-24 03:27:58 +0000"
     },
     "done": true
   },
@@ -1137,6 +1203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2022-02-25 05:48:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2021-12-17 01:29:50 +0000"
@@ -1365,6 +1437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-02-24 03:27:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2021-12-17 01:01:33 +0000"
@@ -1518,6 +1596,7 @@
       "minecraft:snowy_beach": "2021-12-18 02:27:00 +0000",
       "minecraft:warm_ocean": "2021-12-17 02:30:58 +0000",
       "minecraft:deep_lukewarm_ocean": "2021-12-17 02:31:47 +0000",
+      "minecraft:flower_forest": "2022-02-24 04:21:10 +0000",
       "minecraft:frozen_peaks": "2021-12-18 02:16:42 +0000",
       "minecraft:old_growth_birch_forest": "2021-12-17 02:24:49 +0000",
       "minecraft:meadow": "2021-12-18 02:21:39 +0000",
@@ -1736,6 +1815,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2022-02-24 02:22:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2021-12-17 03:17:56 +0000",
@@ -1749,6 +1834,12 @@
   "minecraft:recipes/food/cookie": {
     "criteria": {
       "has_cocoa": "2021-12-17 00:23:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2022-02-24 05:11:25 +0000"
     },
     "done": true
   },
@@ -1923,6 +2014,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2021-12-17 02:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2022-02-24 05:10:57 +0000"
     },
     "done": true
   },
@@ -2154,6 +2251,7 @@
       "glow_berries": "2021-12-18 00:20:50 +0000",
       "salmon": "2021-12-19 01:54:35 +0000",
       "melon_slice": "2021-12-17 00:24:27 +0000",
+      "golden_carrot": "2022-02-24 05:00:56 +0000",
       "cod": "2021-12-19 01:53:30 +0000"
     },
     "done": false
@@ -2284,6 +2382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2022-02-24 02:22:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2021-12-17 01:42:34 +0000"
@@ -2317,6 +2421,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2021-12-17 02:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2022-02-24 02:22:10 +0000"
     },
     "done": true
   },
@@ -2554,6 +2664,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2022-02-24 03:25:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
       "has_planks": "2022-01-04 03:22:50 +0000"
@@ -2662,6 +2778,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2022-02-24 03:27:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2021-12-17 03:17:32 +0000"
@@ -2719,6 +2841,12 @@
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2022-01-01 21:04:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2022-02-24 03:27:58 +0000"
     },
     "done": true
   },
@@ -2791,6 +2919,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-01-01 21:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2022-02-25 05:48:32 +0000"
     },
     "done": true
   },
@@ -2950,6 +3084,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2022-02-24 02:22:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2021-12-17 03:47:13 +0000"
@@ -3037,6 +3177,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-12-17 02:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2022-02-24 02:22:10 +0000"
     },
     "done": true
   },
@@ -3196,6 +3342,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2022-02-24 02:35:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2021-12-17 00:47:48 +0000"
@@ -3259,6 +3411,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2021-12-17 03:32:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-02-24 03:27:58 +0000"
     },
     "done": true
   },
@@ -3538,6 +3696,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2022-02-24 03:27:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2021-12-17 02:18:13 +0000"
@@ -3547,6 +3711,12 @@
   "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-12-19 03:49:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2022-02-25 05:48:32 +0000"
     },
     "done": true
   },
@@ -3571,6 +3741,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2021-12-17 00:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2022-02-24 02:22:10 +0000"
     },
     "done": true
   },

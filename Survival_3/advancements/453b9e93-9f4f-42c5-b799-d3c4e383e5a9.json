@@ -701,6 +701,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2022-02-25 03:44:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2021-12-18 02:34:32 +0000"
@@ -1523,6 +1529,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2022-02-24 21:34:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2021-12-19 22:59:18 +0000"
@@ -2160,6 +2172,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2022-02-25 03:44:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2022-01-07 18:36:22 +0000"
@@ -2404,6 +2422,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2022-02-25 03:44:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2021-12-18 22:27:08 +0000"
@@ -2497,6 +2521,12 @@
   "minecraft:recipes/building_blocks/waxed_cut_copper_slab_from_honeycomb": {
     "criteria": {
       "has_cut_copper_slab": "2022-02-18 05:29:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2022-02-25 03:44:46 +0000"
     },
     "done": true
   },
@@ -2707,6 +2737,7 @@
       "cooked_beef": "2021-12-18 23:56:34 +0000",
       "baked_potato": "2022-01-07 18:22:42 +0000",
       "porkchop": "2021-12-18 01:34:58 +0000",
+      "apple": "2022-02-24 23:13:25 +0000",
       "potato": "2022-01-05 03:36:46 +0000",
       "mutton": "2021-12-18 01:41:40 +0000",
       "pufferfish": "2022-02-18 04:12:16 +0000",
@@ -2716,7 +2747,8 @@
       "melon_slice": "2021-12-19 00:28:48 +0000",
       "golden_carrot": "2022-01-06 04:09:14 +0000",
       "cooked_chicken": "2021-12-19 02:23:05 +0000",
-      "cooked_salmon": "2022-02-18 04:17:17 +0000"
+      "cooked_salmon": "2022-02-18 04:17:17 +0000",
+      "carrot": "2022-02-25 06:35:15 +0000"
     },
     "done": false
   },
@@ -2940,7 +2972,8 @@
     "criteria": {
       "minecraft:turtle": "2022-02-13 01:08:14 +0000",
       "minecraft:sheep": "2021-12-20 02:14:56 +0000",
-      "minecraft:cow": "2021-12-18 20:00:34 +0000"
+      "minecraft:cow": "2021-12-18 20:00:34 +0000",
+      "minecraft:rabbit": "2022-02-25 05:19:57 +0000"
     },
     "done": false
   },
@@ -4333,6 +4366,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_gray_dye": "2022-01-04 05:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2022-02-25 03:44:46 +0000"
     },
     "done": true
   },
