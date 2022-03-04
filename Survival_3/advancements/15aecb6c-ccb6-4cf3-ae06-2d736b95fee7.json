@@ -621,6 +621,7 @@
       "minecraft:phantom": "2022-02-18 07:49:33 +0000",
       "minecraft:witch": "2022-02-23 06:39:51 +0000",
       "minecraft:husk": "2022-02-25 02:57:36 +0000",
+      "minecraft:enderman": "2022-03-03 03:18:30 +0000",
       "minecraft:zombie": "2021-12-17 04:56:00 +0000",
       "minecraft:drowned": "2022-02-18 07:22:10 +0000",
       "minecraft:zombie_villager": "2022-02-18 09:32:01 +0000"
@@ -696,6 +697,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2021-12-17 04:55:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2022-03-03 03:56:34 +0000"
     },
     "done": true
   },
@@ -1182,9 +1189,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2022-02-18 03:32:33 +0000",
+      "minecraft:deep_ocean": "2022-02-27 01:18:48 +0000",
+      "minecraft:sunflower_plains": "2022-03-03 05:27:31 +0000",
       "minecraft:birch_forest": "2021-12-17 04:47:07 +0000",
       "minecraft:bamboo_jungle": "2022-02-25 02:40:17 +0000",
+      "minecraft:savanna_plateau": "2022-03-03 05:29:53 +0000",
       "minecraft:beach": "2021-12-17 04:42:24 +0000",
+      "minecraft:stony_peaks": "2022-03-03 05:29:22 +0000",
       "minecraft:sparse_jungle": "2021-12-17 04:54:54 +0000",
       "minecraft:river": "2021-12-17 04:41:15 +0000",
       "minecraft:stony_shore": "2021-12-17 04:42:38 +0000",
@@ -1192,10 +1203,12 @@
       "minecraft:grove": "2022-02-18 03:59:19 +0000",
       "minecraft:jagged_peaks": "2022-02-18 03:52:58 +0000",
       "minecraft:forest": "2021-12-17 04:40:42 +0000",
+      "minecraft:deep_cold_ocean": "2022-02-27 01:19:29 +0000",
       "minecraft:desert": "2022-02-25 02:41:45 +0000",
       "minecraft:ocean": "2021-12-17 04:42:56 +0000",
       "minecraft:jungle": "2021-12-17 04:33:30 +0000",
       "minecraft:flower_forest": "2022-02-18 04:40:40 +0000",
+      "minecraft:frozen_peaks": "2022-03-03 05:28:02 +0000",
       "minecraft:meadow": "2022-02-18 03:59:05 +0000",
       "minecraft:savanna": "2021-12-17 04:55:44 +0000",
       "minecraft:plains": "2021-12-17 04:41:45 +0000"
@@ -1720,6 +1733,7 @@
       "baked_potato": "2022-02-19 00:40:06 +0000",
       "apple": "2022-01-01 07:46:09 +0000",
       "potato": "2022-02-21 20:46:17 +0000",
+      "bread": "2022-03-03 03:18:50 +0000",
       "melon_slice": "2021-12-17 04:40:02 +0000",
       "cooked_chicken": "2021-12-22 02:48:17 +0000",
       "cooked_salmon": "2021-12-17 05:12:13 +0000",
@@ -2249,6 +2263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2022-02-27 05:19:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2021-12-17 04:41:14 +0000"
@@ -2612,6 +2632,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2022-02-16 05:16:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2022-02-27 05:19:30 +0000"
     },
     "done": true
   },
