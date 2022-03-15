@@ -377,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2022-03-13 02:57:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_bricks": "2022-02-19 03:21:13 +0000"
@@ -815,6 +821,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2022-03-13 02:57:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2021-12-21 02:00:15 +0000"
@@ -830,6 +842,12 @@
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2022-01-04 11:32:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2022-03-13 02:57:44 +0000"
     },
     "done": true
   },
@@ -2816,6 +2834,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2022-03-13 01:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-03-13 02:57:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2021-12-28 21:41:20 +0000"
@@ -2849,6 +2879,12 @@
   "minecraft:recipes/decorations/beehive": {
     "criteria": {
       "has_honeycomb": "2022-01-21 23:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2022-03-13 02:57:44 +0000"
     },
     "done": true
   },
@@ -3291,6 +3327,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2022-03-13 02:57:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_deepslate_bricks": "2021-12-18 02:03:44 +0000"
@@ -3528,6 +3570,12 @@
   "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs": {
     "criteria": {
       "has_oxidized_cut_copper": "2022-01-03 07:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-03-13 02:57:44 +0000"
     },
     "done": true
   },
@@ -4670,6 +4718,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2022-03-13 02:57:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_stairs": {
     "criteria": {
       "has_cut_copper": "2022-01-03 01:02:03 +0000"
@@ -4733,6 +4787,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2021-12-17 00:37:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-03-13 02:57:44 +0000"
     },
     "done": true
   },
@@ -5306,6 +5366,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2022-03-13 00:52:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2022-01-04 02:09:57 +0000"
@@ -5642,5 +5708,5 @@
     },
     "done": true
   },
-  "DataVersion": 2865
+  "DataVersion": 2975
 }
