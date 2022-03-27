@@ -815,6 +815,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2022-03-27 03:03:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2022-02-25 00:56:45 +0000"
@@ -4422,6 +4428,12 @@
   "minecraft:recipes/decorations/magenta_candle": {
     "criteria": {
       "has_magenta_dye": "2022-01-07 10:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2022-03-27 03:03:12 +0000"
     },
     "done": true
   },
