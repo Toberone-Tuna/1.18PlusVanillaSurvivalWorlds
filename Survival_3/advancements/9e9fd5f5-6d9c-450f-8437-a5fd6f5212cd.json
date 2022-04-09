@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_stairs_from_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_copper": "2022-04-03 03:36:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2021-12-17 00:37:33 +0000"
@@ -620,6 +626,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_helmet": "2021-12-17 00:57:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_copper_from_honeycomb": {
+    "criteria": {
+      "has_weathered_copper": "2022-04-03 03:36:16 +0000"
     },
     "done": true
   },
@@ -3435,6 +3447,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_from_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_copper": "2022-04-03 03:36:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-12-17 00:34:26 +0000"
@@ -4107,6 +4125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_slab_from_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_copper": "2022-04-03 03:36:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_carpet": {
     "criteria": {
       "has_yellow_wool": "2022-01-09 04:26:57 +0000"
@@ -4509,6 +4533,7 @@
       "cooked_beef": "2021-12-20 00:21:43 +0000",
       "baked_potato": "2022-01-04 04:43:52 +0000",
       "potato": "2021-12-19 04:47:43 +0000",
+      "pufferfish": "2022-04-03 03:21:01 +0000",
       "bread": "2021-12-17 02:28:49 +0000",
       "rotten_flesh": "2021-12-17 00:42:45 +0000",
       "melon_slice": "2021-12-18 21:33:24 +0000",
@@ -5138,6 +5163,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone": "2022-01-11 04:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper": {
+    "criteria": {
+      "has_weathered_copper": "2022-04-03 03:36:16 +0000"
     },
     "done": true
   },

@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_stairs_from_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_copper": "2022-04-03 04:37:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2021-12-17 00:28:05 +0000"
@@ -560,6 +566,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_helmet": "2021-12-17 01:05:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_copper_from_honeycomb": {
+    "criteria": {
+      "has_weathered_copper": "2022-04-03 04:37:20 +0000"
     },
     "done": true
   },
@@ -3038,6 +3050,7 @@
       "minecraft:piglin": "2021-12-21 03:50:17 +0000",
       "minecraft:enderman": "2022-01-04 02:31:04 +0000",
       "minecraft:stray": "2022-01-07 01:46:59 +0000",
+      "minecraft:silverfish": "2022-04-02 05:56:18 +0000",
       "minecraft:vex": "2022-01-29 04:20:29 +0000",
       "minecraft:zombie": "2021-12-17 01:15:15 +0000",
       "minecraft:drowned": "2021-12-19 21:35:45 +0000",
@@ -3204,6 +3217,12 @@
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2022-01-07 11:07:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_from_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_copper": "2022-04-03 04:37:20 +0000"
     },
     "done": true
   },
@@ -3717,6 +3736,7 @@
       "minecraft:frozen_ocean": "2022-01-06 03:44:08 +0000",
       "minecraft:desert": "2022-01-05 02:17:58 +0000",
       "minecraft:deep_frozen_ocean": "2022-01-06 03:44:07 +0000",
+      "minecraft:windswept_forest": "2022-04-09 00:55:30 +0000",
       "minecraft:jungle": "2021-12-17 00:20:01 +0000",
       "minecraft:ocean": "2021-12-17 00:34:21 +0000",
       "minecraft:old_growth_spruce_taiga": "2022-01-06 03:59:40 +0000",
@@ -3869,6 +3889,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2022-01-04 02:10:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper_slab_from_weathered_copper_stonecutting": {
+    "criteria": {
+      "has_weathered_copper": "2022-04-03 04:37:20 +0000"
     },
     "done": true
   },
@@ -4770,6 +4796,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone": "2022-01-04 11:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/weathered_cut_copper": {
+    "criteria": {
+      "has_weathered_copper": "2022-04-03 04:37:20 +0000"
     },
     "done": true
   },
