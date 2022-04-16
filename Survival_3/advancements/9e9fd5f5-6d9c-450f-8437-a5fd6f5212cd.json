@@ -659,6 +659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2022-04-10 05:18:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper_stairs_from_waxed_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_cut_copper": "2022-02-06 03:15:06 +0000"
@@ -2930,6 +2936,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_stairs": {
+    "criteria": {
+      "has_prismarine": "2022-04-10 05:18:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2021-12-18 20:06:08 +0000"
@@ -3047,6 +3059,12 @@
   "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
     "criteria": {
       "has_prismarine_bricks": "2022-02-07 02:46:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/prismarine_wall": {
+    "criteria": {
+      "has_prismarine": "2022-04-10 05:18:32 +0000"
     },
     "done": true
   },
@@ -3194,6 +3212,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2022-04-10 05:18:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2021-12-21 02:00:15 +0000"
@@ -3259,9 +3283,11 @@
       "minecraft:blaze": "2022-01-04 02:13:44 +0000",
       "minecraft:pillager": "2022-01-04 11:50:20 +0000",
       "minecraft:skeleton": "2021-12-17 00:40:30 +0000",
+      "minecraft:elder_guardian": "2022-04-10 05:10:10 +0000",
       "minecraft:ravager": "2022-01-29 04:08:28 +0000",
       "minecraft:ghast": "2022-01-04 11:42:50 +0000",
       "minecraft:hoglin": "2022-02-28 06:04:27 +0000",
+      "minecraft:guardian": "2022-04-10 05:04:01 +0000",
       "minecraft:vindicator": "2022-01-29 04:14:16 +0000",
       "minecraft:magma_cube": "2021-12-20 00:07:53 +0000",
       "minecraft:spider": "2021-12-17 01:15:07 +0000",
@@ -4740,6 +4766,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_slab": {
+    "criteria": {
+      "has_prismarine": "2022-04-10 05:18:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2021-12-17 00:34:26 +0000"
@@ -5277,6 +5309,12 @@
   "minecraft:recipes/misc/raw_copper": {
     "criteria": {
       "has_raw_copper_block": "2021-12-18 01:41:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine": "2022-04-10 05:18:32 +0000"
     },
     "done": true
   },

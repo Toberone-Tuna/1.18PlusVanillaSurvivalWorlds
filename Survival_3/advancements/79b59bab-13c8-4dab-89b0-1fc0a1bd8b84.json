@@ -815,6 +815,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2022-04-10 04:59:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2021-12-17 02:07:14 +0000"
