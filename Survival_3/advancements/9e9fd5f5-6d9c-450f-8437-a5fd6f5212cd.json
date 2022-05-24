@@ -4720,6 +4720,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2022-02-18 02:29:37 +0000",
+      "sweet_berries": "2022-05-17 03:20:10 +0000",
       "cooked_beef": "2021-12-20 00:21:43 +0000",
       "chorus_fruit": "2022-05-08 02:34:22 +0000",
       "baked_potato": "2022-01-04 04:43:52 +0000",
