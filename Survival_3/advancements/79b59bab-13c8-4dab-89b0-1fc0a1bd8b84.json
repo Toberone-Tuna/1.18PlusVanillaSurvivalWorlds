@@ -5458,8 +5458,8 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "textures/entity/cat/british_shorthair.png": "2022-02-06 04:53:06 +0000",
-      "textures/entity/cat/persian.png": "2022-02-06 04:56:56 +0000"
+      "minecraft:persian": "2022-02-06 04:56:56 +0000",
+      "minecraft:british_shorthair": "2022-02-06 04:53:06 +0000"
     },
     "done": false
   },
@@ -5529,5 +5529,5 @@
     },
     "done": true
   },
-  "DataVersion": 2975
+  "DataVersion": 3105
 }
