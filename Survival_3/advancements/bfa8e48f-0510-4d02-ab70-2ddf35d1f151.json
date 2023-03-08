@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2023-03-07 03:44:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2022-01-09 01:08:34 +0000"
@@ -1631,6 +1637,7 @@
       "minecraft:taiga": "2021-12-18 02:15:38 +0000",
       "minecraft:deep_ocean": "2021-12-17 02:26:14 +0000",
       "minecraft:frozen_river": "2021-12-18 02:24:47 +0000",
+      "minecraft:sunflower_plains": "2023-03-07 04:07:48 +0000",
       "minecraft:birch_forest": "2021-12-17 01:20:15 +0000",
       "minecraft:savanna_plateau": "2021-12-17 00:37:36 +0000",
       "minecraft:beach": "2021-12-17 00:27:55 +0000",
@@ -2264,12 +2271,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_netherbrick": "2021-12-27 23:46:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2022-01-01 01:55:50 +0000"
@@ -2573,7 +2574,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2021-12-19 00:41:36 +0000"
+      "minecraft:cow": "2021-12-19 00:41:36 +0000",
+      "minecraft:horse": "2023-03-07 04:10:37 +0000"
     },
     "done": false
   },
@@ -3927,5 +3929,5 @@
     },
     "done": true
   },
-  "DataVersion": 2975
+  "DataVersion": 3218
 }
