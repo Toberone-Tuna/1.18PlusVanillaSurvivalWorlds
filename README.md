@@ -1,4 +1,4 @@
-# Survival_3
+# 1.18PlusVanillaSurvivalWorlds
 Repository for backups of vanilla survival Minecraft worlds in 1.18 and beyond.
 
 Go to a different branch (drop-down menu on the top left) to select the world you want.
