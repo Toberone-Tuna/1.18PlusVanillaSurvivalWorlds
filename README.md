@@ -9,4 +9,4 @@ To download, go to Code>Download ZIP to get a zipped file with the world folder 
 
 **Minecraft Version:** 1.19.4
 
-**World Size:** 2.53GB
+**World Size:** 2.53 GB
